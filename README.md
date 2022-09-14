@@ -4,7 +4,7 @@
 - 🤔 I'm looking for an internship ...
 <div align="center">
   <a href="https://github.com/SergioMFilho">
-  <img height="280px" width="44%" src="https://github-readme-stats.vercel.app/api?username=SergioMFilho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="320px" width="44%" src="https://github-readme-stats.vercel.app/api?username=SergioMFilho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="280px" width= "44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMFilho&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
