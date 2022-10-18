@@ -5,8 +5,9 @@
 <div display="flex" justify-content="flex-start" align = "center"
   <a href="https://github.com/SergioMFilho">
    
-  <img style="display:flex" > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomfilho&show_icons=true&theme=radical) </img>
-  <img style="display:flex"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomfilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </img>
+  <img style="display:block-inline" > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomfilho&show_icons=true&theme=radical) </img>
+  <img style="display:block-inline"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomfilho&layout=compact)](https://github.com/anuraghazra/github-readme-stats) </img>
+
   
 </div>
 <div style="display: inline_block"><br>
