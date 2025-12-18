@@ -1,5 +1,5 @@
 ### Olá! meu nome é Sérgio Medeiros! 👋 
-Atualmente trabalho com o analista de BI, desenvolvendo dashboards e relatórios que ajudam as empresas a ter soluções inteligentes e identificar seus indicadores financeiros.
+Atualmente trabalho com o analista de BI, desenvolvendo dashboards e relatórios que ajudam as empresas a ter soluções inteligentes e identificar seus indicadores.
 <div display="flex" justify-content="flex-start" align = "center"
   <a href="https://github.com/SergioMFilho">
    
@@ -11,11 +11,11 @@ Atualmente trabalho com o analista de BI, desenvolvendo dashboards e relatórios
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-Python" width="30" height="30" alt="image" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" />
   <img align="center" alt="Sergio-Python" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a94594c6-6abc-4152-aeed-a2d5ab73ebfa" />
-  <img align="center" alt="Sergio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/aef87441-b6b7-4823-9e0e-f9a1fa9bd497" />
   <img align="center" alt="Sergio-postgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />    
-  <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+ 
+  
 </div>
 
 ##
